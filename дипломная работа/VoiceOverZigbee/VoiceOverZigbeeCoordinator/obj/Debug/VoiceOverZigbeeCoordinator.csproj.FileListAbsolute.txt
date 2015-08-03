@@ -1,0 +1,11 @@
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\VoiceOverZigbee\VoiceOverZigbee\VoiceOverZigbeeCoordinator\bin\Debug\VoiceOverZigbeeCoordinator.exe.config
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\VoiceOverZigbee\VoiceOverZigbee\VoiceOverZigbeeCoordinator\obj\Debug\VoiceOverZigbeeCoordinator.csprojResolveAssemblyReference.cache
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\VoiceOverZigbee\VoiceOverZigbee\VoiceOverZigbeeCoordinator\obj\Debug\VoiceOverZigbeeCoordinator.Form1.resources
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\VoiceOverZigbee\VoiceOverZigbee\VoiceOverZigbeeCoordinator\obj\Debug\VoiceOverZigbeeCoordinator.Properties.Resources.resources
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\VoiceOverZigbee\VoiceOverZigbee\VoiceOverZigbeeCoordinator\obj\Debug\VoiceOverZigbeeCoordinator.csproj.GenerateResource.Cache
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\VoiceOverZigbee\VoiceOverZigbee\VoiceOverZigbeeCoordinator\bin\Debug\VoiceOverZigbeeCoordinator.exe
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\VoiceOverZigbee\VoiceOverZigbee\VoiceOverZigbeeCoordinator\bin\Debug\VoiceOverZigbeeCoordinator.pdb
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\VoiceOverZigbee\VoiceOverZigbee\VoiceOverZigbeeCoordinator\bin\Debug\NAudio.dll
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\VoiceOverZigbee\VoiceOverZigbee\VoiceOverZigbeeCoordinator\obj\Debug\VoiceOverZigbeeCoordinator.exe
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\VoiceOverZigbee\VoiceOverZigbee\VoiceOverZigbeeCoordinator\obj\Debug\VoiceOverZigbeeCoordinator.pdb
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\VoiceOverZigbee\VoiceOverZigbee\VoiceOverZigbeeCoordinator\obj\Debug\VoiceOverZigbeeCoordinator.FormScore.resources

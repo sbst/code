@@ -1,0 +1,9 @@
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\VoiceOverZigbee\VoiceOverZigbee\VoiceOverZigbee\bin\Debug\VoiceOverZigbee.exe.config
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\VoiceOverZigbee\VoiceOverZigbee\VoiceOverZigbee\bin\Debug\VoiceOverZigbee.exe
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\VoiceOverZigbee\VoiceOverZigbee\VoiceOverZigbee\bin\Debug\VoiceOverZigbee.pdb
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\VoiceOverZigbee\VoiceOverZigbee\VoiceOverZigbee\obj\Debug\VoiceOverZigbee.csprojResolveAssemblyReference.cache
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\VoiceOverZigbee\VoiceOverZigbee\VoiceOverZigbee\obj\Debug\VoiceOverZigbee.Form1.resources
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\VoiceOverZigbee\VoiceOverZigbee\VoiceOverZigbee\obj\Debug\VoiceOverZigbee.Properties.Resources.resources
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\VoiceOverZigbee\VoiceOverZigbee\VoiceOverZigbee\obj\Debug\VoiceOverZigbee.csproj.GenerateResource.Cache
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\VoiceOverZigbee\VoiceOverZigbee\VoiceOverZigbee\obj\Debug\VoiceOverZigbee.exe
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\VoiceOverZigbee\VoiceOverZigbee\VoiceOverZigbee\obj\Debug\VoiceOverZigbee.pdb
