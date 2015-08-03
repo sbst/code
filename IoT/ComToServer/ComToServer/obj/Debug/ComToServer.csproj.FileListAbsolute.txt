@@ -1,0 +1,10 @@
+c:\users\vyacheslav\documents\visual studio 2013\Projects\ComToServer\ComToServer\bin\Debug\ComToServer.exe.config
+c:\users\vyacheslav\documents\visual studio 2013\Projects\ComToServer\ComToServer\bin\Debug\ComToServer.exe
+c:\users\vyacheslav\documents\visual studio 2013\Projects\ComToServer\ComToServer\bin\Debug\ComToServer.pdb
+c:\users\vyacheslav\documents\visual studio 2013\Projects\ComToServer\ComToServer\obj\Debug\ComToServer.csprojResolveAssemblyReference.cache
+c:\users\vyacheslav\documents\visual studio 2013\Projects\ComToServer\ComToServer\obj\Debug\ComToServer.Form1.resources
+c:\users\vyacheslav\documents\visual studio 2013\Projects\ComToServer\ComToServer\obj\Debug\ComToServer.Properties.Resources.resources
+c:\users\vyacheslav\documents\visual studio 2013\Projects\ComToServer\ComToServer\obj\Debug\ComToServer.csproj.GenerateResource.Cache
+c:\users\vyacheslav\documents\visual studio 2013\Projects\ComToServer\ComToServer\obj\Debug\ComToServer.exe
+c:\users\vyacheslav\documents\visual studio 2013\Projects\ComToServer\ComToServer\obj\Debug\ComToServer.pdb
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\ComToServer\ComToServer\obj\Debug\ComToServer.Form2.resources

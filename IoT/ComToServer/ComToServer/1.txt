@@ -1,0 +1,4 @@
+http://www.msfn.org/board/topic/87969-heres-why-tcpwindowsize-does-not-work-in-vista/
+http://serverfault.com/questions/405595/tcp-windows-size-vs-socket-buffer-size-on-windows
+http://www.pctools.com/guides/registry/detail/268/
+http://superuser.com/questions/763934/how-to-set-permament-tcp-windows-size-in-windows-xp
