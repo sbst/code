@@ -1,0 +1,9 @@
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\ImageOverZigBee\ImageOverZigBeeRouter\ImageOverZigBeeCoordinator\obj\Debug\ImageOverZigBeeCoordinator.csprojResolveAssemblyReference.cache
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\ImageOverZigBee\ImageOverZigBeeRouter\ImageOverZigBeeCoordinator\obj\Debug\ImageOverZigBeeCoordinator.Form1.resources
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\ImageOverZigBee\ImageOverZigBeeRouter\ImageOverZigBeeCoordinator\obj\Debug\ImageOverZigBeeCoordinator.Properties.Resources.resources
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\ImageOverZigBee\ImageOverZigBeeRouter\ImageOverZigBeeCoordinator\obj\Debug\ImageOverZigBeeCoordinator.csproj.GenerateResource.Cache
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\ImageOverZigBee\ImageOverZigBeeRouter\ImageOverZigBeeCoordinator\bin\Debug\ImageOverZigBeeCoordinator.exe.config
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\ImageOverZigBee\ImageOverZigBeeRouter\ImageOverZigBeeCoordinator\bin\Debug\ImageOverZigBeeCoordinator.exe
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\ImageOverZigBee\ImageOverZigBeeRouter\ImageOverZigBeeCoordinator\bin\Debug\ImageOverZigBeeCoordinator.pdb
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\ImageOverZigBee\ImageOverZigBeeRouter\ImageOverZigBeeCoordinator\obj\Debug\ImageOverZigBeeCoordinator.exe
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\ImageOverZigBee\ImageOverZigBeeRouter\ImageOverZigBeeCoordinator\obj\Debug\ImageOverZigBeeCoordinator.pdb
