@@ -1,0 +1,39 @@
+<html>
+
+<head>
+	<title>Получение данных от ifconfig</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<script src="lib/jquery.min.js" ></script>
+	<script src="lib/jquery.form.min.js"></script>
+	<script src="lib/paper.js"></script>
+	<link rel="stylesheet" type="text/css" href="css_style.css">
+	
+	<script type="text/javascript" src="js/script_draw_new.js"></script>
+	<script type="text/javascript" src="js/script_draw.js"></script>
+</head>
+
+<!--http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js-->
+<!--http://malsup.github.com/jquery.form.js-->
+
+<body>
+<br>
+<form id="myForm" class="formSt" action="php/qnet2_comp.php" method="post" enctype="multipart/form-data">
+	<input type="file" name="myfile"><br>
+	<input type="submit" value="Send">
+</form>
+
+<canvas id="myCanvas" class="coorMyCanvas"></canvas>
+
+<script type="text/javascript" src="js/script_form.js"></script>
+<!--script type="text/javascript" src="js/script_draw.js"></script-->
+<script type="text/javascript" src="js/script_draw_new.js"></script>
+
+<form id="netBut" class="netBut">
+        <input type="button" value="Create QuaggaNet" onclick="create_Quagga()">
+</form>
+
+</body>
+
+</html>
+
+
