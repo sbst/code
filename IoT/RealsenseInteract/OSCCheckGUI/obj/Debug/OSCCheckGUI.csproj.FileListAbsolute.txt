@@ -1,0 +1,14 @@
+c:\users\vyacheslav\documents\visual studio 2013\Projects\OSCCheckGUI\OSCCheckGUI\bin\Debug\OSCCheckGUI.exe.config
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\OSCCheckGUI\OSCCheckGUI\bin\Debug\OSCCheckGUI.exe
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\OSCCheckGUI\OSCCheckGUI\bin\Debug\OSCCheckGUI.pdb
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\OSCCheckGUI\OSCCheckGUI\bin\Debug\libpxcclr.cs.dll
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\OSCCheckGUI\OSCCheckGUI\bin\Debug\Ventuz.OSC.dll
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\OSCCheckGUI\OSCCheckGUI\obj\Debug\OSCCheckGUI.csprojResolveAssemblyReference.cache
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\OSCCheckGUI\OSCCheckGUI\obj\Debug\OSCCheckGUI.Form1.resources
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\OSCCheckGUI\OSCCheckGUI\obj\Debug\OSCCheckGUI.Properties.Resources.resources
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\OSCCheckGUI\OSCCheckGUI\obj\Debug\OSCCheckGUI.csproj.GenerateResource.Cache
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\OSCCheckGUI\OSCCheckGUI\obj\Debug\OSCCheckGUI.exe
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\OSCCheckGUI\OSCCheckGUI\obj\Debug\OSCCheckGUI.pdb
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\IoTInteract\OSCCheckGUI\bin\Debug\OSCCheckGUI.exe.config
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\IoTInteract\OSCCheckGUI\obj\Debug\OSCCheckGUI.exe
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\IoTInteract\OSCCheckGUI\obj\Debug\OSCCheckGUI.pdb

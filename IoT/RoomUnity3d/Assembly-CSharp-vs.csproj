@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{A3F0A090-5212-A3D0-D63B-374015A8C934}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_5_0_0;UNITY_5_0;UNITY_5;ENABLE_LICENSE_RENAME;ENABLE_NEW_BUGREPORTER;ENABLE_2D_PHYSICS;ENABLE_4_6_FEATURES;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_NEW_HIERARCHY;ENABLE_PHYSICS;ENABLE_PHYSICS_PHYSX3;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_UNITYEVENTS;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_AUDIOMIXER_SUSPEND;ENABLE_NONPRO;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_MONO;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\ChangeText.cs" />
+     <Compile Include="Assets\FibrumSDK\Fibrum\ChangeCameraEye.cs" />
+     <Compile Include="Assets\FibrumSDK\Fibrum\Console.cs" />
+     <Compile Include="Assets\FibrumSDK\Fibrum\FibrumController.cs" />
+     <Compile Include="Assets\FibrumSDK\Fibrum\FibrumInput.cs" />
+     <Compile Include="Assets\FibrumSDK\Fibrum\Joystick\JoystickSetup.cs" />
+     <Compile Include="Assets\FibrumSDK\Fibrum\Joystick\JoystickSetupParameters.cs" />
+     <Compile Include="Assets\FibrumSDK\Fibrum\UIpointer\VR_UIpointer.cs" />
+     <Compile Include="Assets\FibrumSDK\Fibrum\VRCalibration.cs" />
+     <Compile Include="Assets\FibrumSDK\Fibrum\VRCamera.cs" />
+     <Compile Include="Assets\FibrumSDK\Fibrum\VRSensor.cs" />
+     <Compile Include="Assets\FibrumSDK\Fibrum\VR_GUI\VRInputModule.cs" />
+     <Compile Include="Assets\FibrumSDK\Fibrum\VR_GUI\VR_canvas.cs" />
+     <Compile Include="Assets\FibrumSDK\Fibrum\VR_GUI\VR_canvasUIcontroller.cs" />
+     <Compile Include="Assets\FibrumSDK\FibrumLoader\FibrumPhoneStart.cs" />
+     <Compile Include="Assets\FibrumSDK\FibrumLoader\GameDisplayScript.cs" />
+     <Compile Include="Assets\FibrumSDK\FibrumLoader\SceneAnims\Main_Camera_GameDisplayScript_t.cs" />
+     <Compile Include="Assets\FibrumSDK\FibrumLoader\SceneAnims\Main_Camera_GameDisplayScript_texT.cs" />
+     <Compile Include="Assets\FibrumSDK\FibrumLoader\SceneAnims\Main_Camera_Transform_localPosition.cs" />
+     <Compile Include="Assets\FibrumSDK\FibrumLoader\SceneAnims\Main_Camera_Transform_localRotation.cs" />
+     <Compile Include="Assets\FibrumSDK\FibrumLoader\SceneAnims\phone_Renderer_enabled.cs" />
+     <Compile Include="Assets\FibrumSDK\FibrumLoader\SceneAnims\phone_Transform_localPosition.cs" />
+     <Compile Include="Assets\FibrumSDK\FibrumLoader\SceneAnims\phone_Transform_localRotation.cs" />
+     <Compile Include="Assets\GetData.cs" />
+     <Compile Include="Assets\GetDataCloud.cs" />
+     <Compile Include="Assets\Materials\SendDataLight.cs" />
+     <Compile Include="Assets\Materials\SendDataWind.cs" />
+     <Compile Include="Assets\OnStartup.cs" />
+     <Compile Include="Assets\QuitApp.cs" />
+     <None Include="Assets\Plugins\Android\fibrumsdk\bin\R.txt" />
+     <None Include="Assets\FibrumSDK\Fibrum\Mobile Transparent Vertex Color.shader" />
+     <None Include="Assets\FibrumSDK\Fibrum\LensCorrection.shader" />
+     <None Include="Assets\Plugins\Android\fibrumsdk\res\menu\main.xml" />
+     <None Include="Assets\Plugins\Android\fibrumsdk\res\values\styles.xml" />
+     <None Include="Assets\Plugins\Android\fibrumsdk\res\values-sw600dp\dimens.xml" />
+     <None Include="Assets\FibrumSDK\Fibrum\VR_GUI\MaskedCutOutTex.shader" />
+     <None Include="Assets\Plugins\Android\fibrumsdk\res\values\strings.xml" />
+     <None Include="Assets\Plugins\Android\fibrumsdk\bin\AndroidManifest.xml" />
+     <None Include="Assets\Plugins\Android\fibrumsdk\res\values-sw720dp-land\dimens.xml" />
+     <None Include="Assets\Plugins\Android\fibrumsdk\res\values\dimens.xml" />
+     <None Include="Assets\Plugins\Android\fibrumsdk\res\layout\activity_main.xml" />
+     <None Include="Assets\Plugins\Android\fibrumsdk\res\values-v11\styles.xml" />
+     <None Include="Assets\Plugins\Android\fibrumsdk\res\values-v14\styles.xml" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

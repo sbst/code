@@ -1,0 +1,5 @@
+C:\Users\VYACHESLAV\Documents\Visual Studio 2010\Projects\3LABA\3LABA\bin\Debug\3LABA.exe
+C:\Users\VYACHESLAV\Documents\Visual Studio 2010\Projects\3LABA\3LABA\bin\Debug\3LABA.pdb
+C:\Users\VYACHESLAV\Documents\Visual Studio 2010\Projects\3LABA\3LABA\obj\x86\Debug\3LABA.exe
+C:\Users\VYACHESLAV\Documents\Visual Studio 2010\Projects\3LABA\3LABA\obj\x86\Debug\3LABA.pdb
+C:\Users\VYACHESLAV\Documents\Visual Studio 2010\Projects\3LABA\3LABA\obj\x86\Debug\3LABA.csprojResolveAssemblyReference.cache

@@ -1,0 +1,4 @@
+C:\Users\VYACHESLAV\Documents\Visual Studio 2010\Projects\3LABAClient\3LABAClient\bin\Debug\3LABAClient.exe
+C:\Users\VYACHESLAV\Documents\Visual Studio 2010\Projects\3LABAClient\3LABAClient\bin\Debug\3LABAClient.pdb
+C:\Users\VYACHESLAV\Documents\Visual Studio 2010\Projects\3LABAClient\3LABAClient\obj\x86\Debug\3LABAClient.exe
+C:\Users\VYACHESLAV\Documents\Visual Studio 2010\Projects\3LABAClient\3LABAClient\obj\x86\Debug\3LABAClient.pdb
