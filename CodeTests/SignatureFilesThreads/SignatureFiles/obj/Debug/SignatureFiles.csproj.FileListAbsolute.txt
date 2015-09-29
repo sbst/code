@@ -1,0 +1,4 @@
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\Veeam\SignatureFiles\SignatureFiles\bin\Debug\SignatureFiles.exe
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\Veeam\SignatureFiles\SignatureFiles\bin\Debug\SignatureFiles.pdb
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\Veeam\SignatureFiles\SignatureFiles\obj\Debug\SignatureFiles.exe
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\Veeam\SignatureFiles\SignatureFiles\obj\Debug\SignatureFiles.pdb

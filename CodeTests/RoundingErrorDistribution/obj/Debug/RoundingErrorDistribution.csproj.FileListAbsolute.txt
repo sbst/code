@@ -1,0 +1,10 @@
+C:\Users\Vyacheslav\Desktop\Attachments_Lenka.Frankova@fnz.co.uk_2015-09-09_18-57-14\CodeTest2015\RoundingErrorDistribution\bin\Debug\RoundingErrorDistribution.exe
+C:\Users\Vyacheslav\Desktop\Attachments_Lenka.Frankova@fnz.co.uk_2015-09-09_18-57-14\CodeTest2015\RoundingErrorDistribution\bin\Debug\RoundingErrorDistribution.pdb
+C:\Users\Vyacheslav\Desktop\Attachments_Lenka.Frankova@fnz.co.uk_2015-09-09_18-57-14\CodeTest2015\RoundingErrorDistribution\obj\Debug\RoundingErrorDistribution.csprojResolveAssemblyReference.cache
+C:\Users\Vyacheslav\Desktop\Attachments_Lenka.Frankova@fnz.co.uk_2015-09-09_18-57-14\CodeTest2015\RoundingErrorDistribution\obj\Debug\RoundingErrorDistribution.exe
+C:\Users\Vyacheslav\Desktop\Attachments_Lenka.Frankova@fnz.co.uk_2015-09-09_18-57-14\CodeTest2015\RoundingErrorDistribution\obj\Debug\RoundingErrorDistribution.pdb
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\FNZ\CodeTest2015\RoundingErrorDistribution\obj\Debug\RoundingErrorDistribution.exe
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\FNZ\CodeTest2015\RoundingErrorDistribution\obj\Debug\RoundingErrorDistribution.pdb
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\FNZ\CodeTest2015\RoundingErrorDistribution\obj\Debug\RoundingErrorDistribution.csprojResolveAssemblyReference.cache
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\FNZ\CodeTest2015\RoundingErrorDistribution\bin\Debug\RoundingErrorDistribution.exe
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\FNZ\CodeTest2015\RoundingErrorDistribution\bin\Debug\RoundingErrorDistribution.pdb

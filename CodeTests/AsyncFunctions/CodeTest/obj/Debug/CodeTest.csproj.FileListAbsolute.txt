@@ -1,0 +1,5 @@
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\Broctagon\CodeTest\CodeTest\bin\Debug\CodeTest.exe.config
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\Broctagon\CodeTest\CodeTest\bin\Debug\CodeTest.exe
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\Broctagon\CodeTest\CodeTest\bin\Debug\CodeTest.pdb
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\Broctagon\CodeTest\CodeTest\obj\Debug\CodeTest.exe
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\Broctagon\CodeTest\CodeTest\obj\Debug\CodeTest.pdb

@@ -1,0 +1,5 @@
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\Veeam\SignatureFiles\SignatureFiles\bin\Release\SignatureFiles.exe
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\Veeam\SignatureFiles\SignatureFiles\bin\Release\SignatureFiles.pdb
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\Veeam\SignatureFiles\SignatureFiles\obj\Release\SignatureFiles.exe
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\Veeam\SignatureFiles\SignatureFiles\obj\Release\SignatureFiles.pdb
+C:\Users\Vyacheslav\Documents\Visual Studio 2013\Projects\Veeam\SignatureFiles\SignatureFiles\obj\Release\SignatureFiles.csprojResolveAssemblyReference.cache
