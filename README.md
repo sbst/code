@@ -3,7 +3,9 @@ This repository is presenting code examples from hackatons, bachelor work, labor
 
 1. "Bachelor work" - transferring multimedia data over ZigBee.
 
-2. "IoT" - projects are related with Internet of Things, such as 
+2. "CodeTests" - some code implementations from tests.
+
+3. "IoT" - projects are related with Internet of Things, such as 
   "ComToServer" - gateway, all information from COM port is transferring on the server; 
 
   "OSCInteraction" - user is transforming music in real time via Intel Realsense camera, OSC protocol, CSound;
@@ -12,12 +14,12 @@ This repository is presenting code examples from hackatons, bachelor work, labor
   
   "RoomUnity3d" and "RoomIntelGalileo" - are projects for connecting Virtual Reality with Internet of Things conception.
 
-3. "Labs" - several laboratory works from university:
+4. "Labs" - several laboratory works from university:
 
    "GraphGo" - graph bypassing and counting result from edge costs;
 
   "TCPFileSend" - server is sending file via TCP, client is receiving in another thread.
   
-4. "Qnet" - project from university for monitoring network in realtime.
+5. "Qnet" - project from university for monitoring network in realtime.
 
-5. "QtLir" - project realized on C++, for collection and visualize data from different sensors within testbed.  
+6. "QtLir" - project realized on C++, for collection and visualize data from different sensors within testbed.  
